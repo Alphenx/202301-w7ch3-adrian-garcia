@@ -1,5 +1,5 @@
 {
-  "name": "backend-configs-template-alphenx",
+  "name": "202301-w7ch3-adrian-garcia",
   "version": "1.0.0",
   "description": "This is a project with default configs",
   "main": "dist/server.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+<repository-URL>.git"
+    "url": "git+https://github.com/Alphenx/202301-w7ch3-adrian-garcia.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "<repository-URL>/issues"
+    "url": "https://github.com/Alphenx/202301-w7ch3-adrian-garcia/issues"
   },
-  "homepage": "<repository-URL>#readme",
+  "homepage": "https://github.com/Alphenx/202301-w7ch3-adrian-garcia#readme",
   "devDependencies": {
     "@types/jest": "^29.4.0",
     "@types/node": "^18.14.0",
